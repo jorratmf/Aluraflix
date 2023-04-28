@@ -8,5 +8,4 @@ npm install & npm start
 ### Historial
 Echa un vistazo a la pestaña Lanzamientos para seguir los cambios realizados en el proyecto.
 
-Licencia del Proyecto
 Licencia MIT ©
